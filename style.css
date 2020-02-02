@@ -1,0 +1,12 @@
+#navbar{
+    width: 15%;
+    float: left;
+}
+
+#data-panel{
+    width: 85%;
+}
+
+#btnGenre{
+    margin-bottom: 4px;
+}
